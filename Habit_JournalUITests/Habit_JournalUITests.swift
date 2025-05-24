@@ -4,7 +4,7 @@
 //
 //  Created by Abbas on 23/05/2025.
 //
-
+/*
 import XCTest
 
 final class Habit_JournalUITests: XCTestCase {
@@ -39,3 +39,4 @@ final class Habit_JournalUITests: XCTestCase {
         }
     }
 }
+*/

@@ -58,6 +58,16 @@
 			path = Habit_JournalUITests;
 			sourceTree = "<group>";
 		};
+		CE6A5FA22DE0DDF90063D805 /* App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = App;
+			sourceTree = "<group>";
+		};
+		CE6A5FA62DE0DE2A0063D805 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +98,8 @@
 		CE6A5F672DE0DDBB0063D805 = {
 			isa = PBXGroup;
 			children = (
+				CE6A5FA62DE0DE2A0063D805 /* Views */,
+				CE6A5FA22DE0DDF90063D805 /* App */,
 				CE6A5F722DE0DDBB0063D805 /* Habit_Journal */,
 				CE6A5F872DE0DDBD0063D805 /* Habit_JournalTests */,
 				CE6A5F912DE0DDBD0063D805 /* Habit_JournalUITests */,
@@ -122,6 +134,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				CE6A5F722DE0DDBB0063D805 /* Habit_Journal */,
+				CE6A5FA22DE0DDF90063D805 /* App */,
+				CE6A5FA62DE0DE2A0063D805 /* Views */,
 			);
 			name = Habit_Journal;
 			packageProductDependencies = (
